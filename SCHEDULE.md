@@ -4,10 +4,11 @@
 
 | Product        | EC        | PH        | Temp  | Harvest Type | Harvest Amount | Germination | Transplant | Harvest     |
 | -------------- | --------- | --------- | ----- | ------------ | -------------- | ----------- | ---------- | ----------- |
-| Chard          | 1.8 - 2.3 | 6.6 - 7.0 | 55-75 | Partial      | 70-75%         |             | 2 weeks    | 4-5 weeks   |
+| Chard          | 1.8 - 2.3 | 6.6 - 7.0 | 55-75 | Partial      | 70-75%         | 5-7 days    | 3-4 weeks  | 4-5 weeks   |
+| Spinich        | 1.8 - 2.3 | 6.6 - 7.0 | 55-75 | Partial      | 70-75%         | 5-7 days    | 3-4 weeks  | 4-5 weeks   |
 | Mustard Greens | 1.2 - 2.4 | 6.0 - 7.5 | 50-75 | Partial      | 30%            | 4-7 days    | 3-4 weeks  | 4-6 weeks   |
 | Kale           | 1.8 - 3.0 | 6.0 - 7.5 | 45-85 | Partial      | 30%            | 4-7 days    | 4-5 weeks  | 9-11 weeks  |
-| Cabbage        | 2.5 - 3.0 | 6.5 - 7.0 | 40-70 | Full         | 100%           | 5-7 weeks   | 7-9 weeks  | 14-18 Weeks |
+| Cabbage        | 2.5 - 3.0 | 6.5 - 7.0 | 40-70 | Full         | 100%           | 7 days      | 7-9 weeks  | 14-18 Weeks |
 | Bok Choy       | 1.5 - 2.5 | 6.0 - 7.5 | 55-75 | Full         | 100%           | 4-7 days    | 4-5 weeks  | 8-11 weeks  |
 | Lettuce        | 0.8 - 1.2 | 5.6 - 6.2 | 40-70 | Full         | 100%           | 7-14 days   | 3-4 weeks  | 5-6 weeks   |
 | Arugula        | 0.8 - 1.2 | 6.0 - 6.8 | 50-65 | Full         | 100%           | 7-14 days   | 3-4 weeks  | 5-6 weeks   |
